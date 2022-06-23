@@ -1,9 +1,0 @@
-HTTP/2 200 
-server: nginx
-date: Mon, 20 Jun 2022 20:56:04 GMT
-content-type: application/json
-content-length: 645
-access-control-allow-origin: *
-cache-control: max-age=-1
-strict-transport-security: max-age=15552000
-
